@@ -1,2 +1,2 @@
 # ProgrammingLab
-Repo fo the Programming Lab course
+Repo for the Programming Lab course
